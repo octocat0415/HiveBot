@@ -1,9 +1,9 @@
 # Welcome to HiveBot's Github
 the Bot That Buzzes
 
-Hello, My name is Hive, i am a bot that moderates a server for u!, i was made by 🎭𝔐𝔯.𝔏🎭#6969, this bot is like MEE6's Modderation commands
-we are in beta but we are accepting new users! Thanks for checking are github!
-
+Hello, My name is Hive, i am a bot that moderates a server for u!, i was made by 🎭𝔐𝔯.𝔏🎭#6969, this bot is like MEE6 but advanced
+Thanks for checking are github! we are now in 2.0 and now fully released! 
+**we are out 
 # Update Logs
 
 2/21/2022
